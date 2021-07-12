@@ -1,0 +1,11 @@
+line1 = '0123456789'
+s1 = line1[3:4:]
+
+print(s1)
+
+
+assert line1.find(s1) == 3
+
+
+
+
